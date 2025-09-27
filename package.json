@@ -1,0 +1,10 @@
+{
+  "name": "ntlm-proxy",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "httpntlm": "^1.8.13",
+    "morgan": "^1.10.0"
+  }
+}
